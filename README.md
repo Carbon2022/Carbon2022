@@ -1,10 +1,14 @@
 # Hi, Everybody!
 ### Carbon monoxide
-🫠  🙂😉
+🫠🙂😉
 
 I just want to learn more here.
-## Mission is being completed ......
+不断学习！
+
+## Mission is being completed.
 - [x] Startup completed ! 
 - [ ] Next step.
 - [ ] ...
 <!-- More updating -->
+
+我将会一直努力的！！！
